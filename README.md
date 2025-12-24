@@ -274,6 +274,8 @@ Add Year-wise trend analysis
 Include Category/Sub-category level analysis
 Implement forecasting models
 Add more advanced calculated fields
+----
 
 📷 Dashboard Preview
-
+----
+https://github.com/kushalgupta15/Project-1-Tableau-Superstore-Sales-/blob/main/Tableau%20Project%201%20(Dashboard%20Preview).png
