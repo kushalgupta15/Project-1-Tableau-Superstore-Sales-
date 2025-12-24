@@ -279,3 +279,5 @@ Add more advanced calculated fields
 📷 Dashboard Preview
 ----
 https://github.com/kushalgupta15/Project-1-Tableau-Superstore-Sales-/blob/main/Tableau%20Project%201%20(Dashboard%20Preview).png
+<img width="1910" height="1005" alt="image" src="https://github.com/user-attachments/assets/8b3f7103-a19f-46a7-93ac-a79b668ad739" />
+
